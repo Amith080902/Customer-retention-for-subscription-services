@@ -59,7 +59,7 @@ An interactive dashboard is created in Tableau to visualize churn patterns. Key 
 - Add more customer behavior features
 
 ## Contributors
-- Your Name (your.email@example.com)
+- Your Name (saiamit8355@gmail.com)
 
 ## License
 This project is licensed under the MIT License.
